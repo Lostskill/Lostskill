@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Lostskill
-- 👀 I’m interested in Python and web
-- 🌱 I’m currently learning python(tkinter)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+--Занимаюсь Python разработкой  
+--Web-backend на django 
+--Сейчас изучаю JavaScript, Lua
+
 
 <!---
 Lostskill/Lostskill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
