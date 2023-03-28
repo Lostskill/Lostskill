@@ -1,5 +1,7 @@
 --Занимаюсь Python разработкой  
+
 --Web-backend на django 
+
 --Сейчас изучаю JavaScript, Lua
 
 
